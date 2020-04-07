@@ -1,0 +1,71 @@
+Alexandre Cabral
+cabralbmf@gmail.com
+Blog: Economia à vista
+
+Spot = preço do derivativo hoje
+
+Futuro: 
+	Aposta / Cassino 
+	Não existe principal no mercado futuro
+	Sempre a diferença entre a Compra e a Venda
+Swap:
+	Ponta ativa e ponta passiva com o mesmo financeiro
+	indexador na ponta ativa
+Hedge:
+	Vou no mercado financeiro pra fazer seguro
+	Empresa vem para Hedge
+Especulação:
+	Banco vem para especular
+
+Petro BRL:  20 reais 
+Petro EUA:  5 dolar
+Câmbio...:  4 pra 1
+
+Mercado de Bolsa
+	Swap
+	Fico sabendo após o registro
+
+Mercado de Bolsa:
+	Futuro
+	Posso interferir na negociação
+
+PTAX:
+	Média dos preços de compra e dos preços de venda do dólar dos 12 maiores bancos do Brasil
+
+Liquidação Financeira
+	Liquidação por diferença de preço
+
+	Venda 3.50	Santander
+	PTAX  3,40	No dia
+	-------------
+	<>    0,10 + Termo
+	      3,40 + Mercado à vista
+	-------------
+	      3,50 Somatório
+
+Futuro:
+	Para todo futuro existe um calendário padronizado pela bolsa
+	Futuro de dolar possui uma data
+	Futuro de juros possui uma data = 1 dia útil do mês - 12 datas no ano
+	Todo contrato de DI Futuro é multiplo de 100.000 no vencimento
+	Todo contrato de Dólar é multiplo de 10.000 (Mini) ou 250.000 (Cheio)
+	Negociado em tela
+	Não dependo da origem (não sei) para zerar a posição
+	Quem é resposável legal pelo pagamento da parte é a contraparte Clearing
+	Mercado não tangível. Uma aposta em uma tela
+	Clearing: Parte que aparece depois que o negócio surge
+	Ajuste diário: deposito em dinheiro
+	Marge de garantia: deposito na bolsa através de uma corretora para honrar o ajuste diário	
+	Ajsute diário: marcação a mercado do contrato futuro
+	Se fiquei até as 18:00 tenho o ajuste diário
+	Dolar futuro últimos 10 minutos para cálculo do ajuste diário
+	Call de fechamento: 25 DIs futuros saindo todos os dias. Ocorre o ano inteiro às 4. Preços que não saem é calculado pela equipe técnina.
+
+DI Futuro:	
+	Meta Selic não é Selic em Renda Fixa
+	Duas Instituições Financeiras, Envolve Dinheiro, Operação de 1 dia e com Lastro em TP como Garantia => registra na SELIC (Banco Central). Desta média sai a Selic. 0,10 menor que a Selic Meta.
+	CDI: Certificado de Depósito Interfinanceiro
+	Tem como objetivo operar o comportamento do CDI
+	DI Futuro eu opero taxa, Comprei a 7%a.a e bateu 8%a.a
+	Quem compra taxa é igual a vender PU
+	Quem vende taxa é igual a comprar PU	

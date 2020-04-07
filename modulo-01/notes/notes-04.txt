@@ -1,0 +1,39 @@
+1 ponto americano = 0,01%a.a.
+5 pontos 	  = 0,05%a.a.
+
+Maior liquidez diária no DI Futuro que LTN, logo a taxa do DI tende a ser menor.
+
+LTN Casada = LTN   - DI Futuro
+0,05       = 10,05 - 10,00
+
+No começo da conversa, falamos em 5 pontos
+
+Todo vendedor de LTN Casada está zerando a posição
+
+Ou estou Comprado em LTN Casada ou NADA (Só quem emite é o Tesouro)
+
+É operado por pontos
+
+Pontos é Oferta e Demanda
+
+LTN Casada é 100% por telefone (Balcão)
+
+==============================================================================
+Swap:
+
+Não possui um calendário
+
+Não existe volume fixo
+
+NTNB
+
+Vence todo dia 15
+
+Pega o vencimento e vem voltando 6 meses
+
+data base 15/07/2000
+
+
+
+
+
